@@ -49,6 +49,7 @@ public class ITECCourse {
     }
 
     public void writeCourseInfo() {
+        // comment
         System.out.println("Course name: " + this.name);
         System.out.println("Course code " + this.code);
         System.out.println("Students enrolled: ");
